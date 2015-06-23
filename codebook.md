@@ -1,13 +1,17 @@
 index 180
   the index of activity and subject, the first number represent the corresponding subject name, the second number present the activity
+  
   subject: the test subject (volunteer) identifier. Range 1:30
   activity: activity type. Value is one of [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING]
 
+
 tBodyAcc-mean()-X 
   the avergae of means of signals from body accelerometer at X axial for each subject and each activity 
+
   
 tBodyAcc-std()-X 
    the avergae of standard derivation of signals from body accelerometer at X axial for each subject and each activity 
+
 
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
