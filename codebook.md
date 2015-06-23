@@ -1,4 +1,4 @@
-index 180/
+index 180./
   the index of activity and subject, the first number represent the corresponding subject name, the second number present the activity
   
   subject: the test subject (volunteer) identifier. Range 1:30
